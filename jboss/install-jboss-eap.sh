@@ -1,5 +1,5 @@
 #Pre-requisite:
-# 1. OpenJDK installed already
+# 1. OpenJDK installed already on the system
 
 #migration guide: https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.2/html-single/migration_guide/index#migrating_from_eap_5_to_eap_7
 
